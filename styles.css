@@ -226,6 +226,7 @@ FEATURES
 
 .books {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .book {
@@ -271,4 +272,3 @@ FEATURES
   color: #bfbfbf;
 }
 
-wtreshzv
